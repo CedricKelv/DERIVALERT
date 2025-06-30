@@ -1,2 +1,2 @@
 websocket-client
-python-telegram-bot
+python-telegram-bot==13.15
